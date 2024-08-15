@@ -22,7 +22,7 @@ This take-home assignment aims to assess the followings:
 ## Set-up
 
   1. Clone the repo to your computer
-  2. Run `yarn install`
+  2. Run `yarn`
   3. Run `yarn db:push`
   4. Run `yarn test`
 
